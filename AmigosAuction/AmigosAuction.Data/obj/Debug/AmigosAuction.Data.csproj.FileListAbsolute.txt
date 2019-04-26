@@ -1,0 +1,93 @@
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Data.dll.config
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Data.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Data.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Entities.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\EntityFramework.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\EntityFramework.SqlServer.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Entities.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\EntityFramework.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\EntityFramework.SqlServer.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.csprojAssemblyReference.cache
+M:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.csproj.CoreCompileInputs.cache
+M:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.csproj.CopyComplete
+M:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.auctionEntityAdded.resources
+M:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.csproj.GenerateResource.cache
+M:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.auctionPicture.resources
+M:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.addedCategory.resources
+M:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.RegisterFunctionality.resources
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Entities.dll.config
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.baseCleared.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Data.dll.config
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Data.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Data.pdb
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Entities.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\EntityFramework.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\EntityFramework.SqlServer.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Entities.pdb
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Entities.dll.config
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\EntityFramework.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\EntityFramework.SqlServer.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.csprojAssemblyReference.cache
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.auctionEntityAdded.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.auctionPicture.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.addedCategory.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.RegisterFunctionality.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.baseCleared.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.csproj.GenerateResource.cache
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.csproj.CoreCompileInputs.cache
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.csproj.CopyComplete
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.pdb
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.bidFunctionalityAdded.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.BidEntity.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.BidsAdded.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.commentEnity.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.commentEnityUpdated.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.CommentAdded.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.auctionEnityAltered.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.auctionEnityRestrictionChanged.resources
+P:\Amigos\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.AuctionDatetime.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Data.dll.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Data.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Data.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Entities.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\EntityFramework.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\EntityFramework.SqlServer.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Entities.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\AmigosAuction.Entities.dll.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\EntityFramework.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\EntityFramework.SqlServer.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.csprojAssemblyReference.cache
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.auctionEntityAdded.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.auctionPicture.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.addedCategory.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.RegisterFunctionality.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.baseCleared.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.bidFunctionalityAdded.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.BidEntity.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.BidsAdded.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.commentEnity.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.commentEnityUpdated.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.CommentAdded.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.auctionEnityAltered.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.auctionEnityRestrictionChanged.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.Migrations.AuctionDatetime.resources
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.csproj.GenerateResource.cache
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.csproj.CoreCompileInputs.cache
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.csproj.CopyComplete
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Data\obj\Debug\AmigosAuction.Data.pdb

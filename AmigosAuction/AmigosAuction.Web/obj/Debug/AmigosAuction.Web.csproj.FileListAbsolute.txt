@@ -1,0 +1,354 @@
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Web.dll.config
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Web.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Web.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\csc.exe
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\csc.exe.config
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\csc.rsp
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\csi.exe
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\csi.exe.config
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\csi.rsp
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.Managed.Core.targets
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.AppContext.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Collections.Immutable.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Console.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.Compression.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.FileSystem.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.Pipes.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Reflection.Metadata.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.AccessControl.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Claims.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Principal.Windows.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.ValueTuple.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Xml.XmlDocument.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Xml.XPath.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\vbc.exe
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\vbc.exe.config
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\vbc.rsp
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\VBCSCompiler.exe
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\VBCSCompiler.exe.config
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Antlr3.Runtime.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\EntityFramework.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\EntityFramework.SqlServer.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.Core.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Cookies.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Facebook.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Google.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.OAuth.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Twitter.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Web.Infrastructure.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Newtonsoft.Json.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Owin.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Diagnostics.DiagnosticSource.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Helpers.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Mvc.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Optimization.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Razor.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.Deployment.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.Razor.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\WebGrease.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Helpers.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Mvc.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Optimization.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Razor.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.Deployment.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.Razor.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Newtonsoft.Json.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Antlr3.Runtime.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\EntityFramework.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\EntityFramework.SqlServer.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.Core.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Facebook.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Cookies.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Google.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Twitter.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.OAuth.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Diagnostics.DiagnosticSource.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.csprojAssemblyReference.cache
+M:\Amigos\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.csproj.CoreCompileInputs.cache
+M:\Amigos\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.csproj.CopyComplete
+M:\Amigos\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Entities.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Services.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Data.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Entities.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Services.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Services.dll.config
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Data.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Data.dll.config
+M:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Entities.dll.config
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Web.dll.config
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Web.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Web.pdb
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\csc.exe
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\csc.exe.config
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\csc.rsp
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\csi.exe
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\csi.exe.config
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\csi.rsp
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.Managed.Core.targets
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.AppContext.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Collections.Immutable.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Console.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.Compression.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.FileSystem.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.Pipes.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Reflection.Metadata.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.AccessControl.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Claims.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Principal.Windows.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.ValueTuple.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Xml.XmlDocument.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Xml.XPath.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\vbc.exe
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\vbc.exe.config
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\vbc.rsp
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\VBCSCompiler.exe
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\roslyn\VBCSCompiler.exe.config
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Data.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Entities.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Services.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Antlr3.Runtime.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\EntityFramework.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\EntityFramework.SqlServer.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.Core.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Cookies.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Facebook.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Google.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.OAuth.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Twitter.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Web.Infrastructure.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Newtonsoft.Json.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Owin.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Diagnostics.DiagnosticSource.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Helpers.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Mvc.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Optimization.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Razor.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.Deployment.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.Razor.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\WebGrease.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Data.pdb
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Data.dll.config
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Entities.pdb
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Entities.dll.config
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Services.pdb
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Services.dll.config
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Helpers.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Mvc.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Optimization.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.Razor.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.Deployment.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.Razor.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Newtonsoft.Json.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Antlr3.Runtime.pdb
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\EntityFramework.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\EntityFramework.SqlServer.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.Core.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Facebook.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Cookies.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Google.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Twitter.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.OAuth.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\System.Diagnostics.DiagnosticSource.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.csprojAssemblyReference.cache
+P:\Amigos\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.csproj.CoreCompileInputs.cache
+P:\Amigos\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.csproj.CopyComplete
+P:\Amigos\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Web.dll.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Web.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Web.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\csc.exe
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\csc.exe.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\csc.rsp
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\csi.exe
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\csi.exe.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\csi.rsp
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.Managed.Core.targets
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.AppContext.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Collections.Immutable.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Console.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.Compression.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.FileSystem.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.IO.Pipes.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Reflection.Metadata.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.AccessControl.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Claims.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Security.Principal.Windows.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.ValueTuple.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Xml.XmlDocument.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Xml.XPath.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\vbc.exe
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\vbc.exe.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\vbc.rsp
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\VBCSCompiler.exe
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\roslyn\VBCSCompiler.exe.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Data.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Entities.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Services.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Antlr3.Runtime.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\EntityFramework.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\EntityFramework.SqlServer.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.Core.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Cookies.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Facebook.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Google.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.OAuth.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Twitter.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Web.Infrastructure.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Newtonsoft.Json.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Owin.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Diagnostics.DiagnosticSource.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.Helpers.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.Mvc.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.Optimization.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.Razor.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.Deployment.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.Razor.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\WebGrease.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Data.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Data.dll.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Entities.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Entities.dll.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Services.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\AmigosAuction.Services.dll.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.Helpers.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.Mvc.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.Optimization.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.Razor.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.Deployment.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Web.WebPages.Razor.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Newtonsoft.Json.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Antlr3.Runtime.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\EntityFramework.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\EntityFramework.SqlServer.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.Core.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Facebook.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Cookies.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Google.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.Twitter.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.Owin.Security.OAuth.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\System.Diagnostics.DiagnosticSource.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.csprojAssemblyReference.cache
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.csproj.CoreCompileInputs.cache
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.csproj.CopyComplete
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Web\obj\Debug\AmigosAuction.Web.pdb

@@ -1,0 +1,48 @@
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\AmigosAuction.Entities.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\AmigosAuction.Entities.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.csprojAssemblyReference.cache
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.csproj.CoreCompileInputs.cache
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\AmigosAuction.Entities.dll.config
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\EntityFramework.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\EntityFramework.SqlServer.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\EntityFramework.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\EntityFramework.SqlServer.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.csproj.CopyComplete
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\AmigosAuction.Entities.dll.config
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\AmigosAuction.Entities.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\AmigosAuction.Entities.pdb
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\EntityFramework.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\EntityFramework.SqlServer.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\EntityFramework.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\EntityFramework.SqlServer.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.csprojAssemblyReference.cache
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.csproj.CoreCompileInputs.cache
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.csproj.CopyComplete
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\bin\Debug\AmigosAuction.Entities.dll.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\bin\Debug\AmigosAuction.Entities.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\bin\Debug\AmigosAuction.Entities.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\bin\Debug\EntityFramework.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\bin\Debug\EntityFramework.SqlServer.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\bin\Debug\EntityFramework.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\bin\Debug\EntityFramework.SqlServer.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.csprojAssemblyReference.cache
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.csproj.CoreCompileInputs.cache
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.csproj.CopyComplete
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Entities\obj\Debug\AmigosAuction.Entities.pdb

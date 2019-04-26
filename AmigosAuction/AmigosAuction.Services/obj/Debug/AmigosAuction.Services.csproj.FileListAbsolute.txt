@@ -1,0 +1,105 @@
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Services.dll.config
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Services.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Services.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Data.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Entities.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\EntityFramework.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\EntityFramework.SqlServer.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Data.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Data.dll.config
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Entities.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\EntityFramework.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\EntityFramework.SqlServer.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.csprojAssemblyReference.cache
+M:\Amigos\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.csproj.CoreCompileInputs.cache
+M:\Amigos\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.csproj.CopyComplete
+M:\Amigos\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.pdb
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Entities.dll.config
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Newtonsoft.Json.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Owin.dll
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+M:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Newtonsoft.Json.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Services.dll.config
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Services.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Services.pdb
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Data.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Entities.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\EntityFramework.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\EntityFramework.SqlServer.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Newtonsoft.Json.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Owin.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Data.pdb
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Data.dll.config
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Entities.pdb
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Entities.dll.config
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\EntityFramework.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\EntityFramework.SqlServer.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Services\bin\Debug\Newtonsoft.Json.xml
+P:\Amigos\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.csprojAssemblyReference.cache
+P:\Amigos\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.csproj.CoreCompileInputs.cache
+P:\Amigos\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.csproj.CopyComplete
+P:\Amigos\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.dll
+P:\Amigos\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Services.dll.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Services.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Services.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Data.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Entities.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\EntityFramework.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\EntityFramework.SqlServer.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Newtonsoft.Json.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Owin.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Data.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Data.dll.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Entities.pdb
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\AmigosAuction.Entities.dll.config
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\EntityFramework.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\EntityFramework.SqlServer.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\bin\Debug\Newtonsoft.Json.xml
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.csprojAssemblyReference.cache
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.csproj.CoreCompileInputs.cache
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.csproj.CopyComplete
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.dll
+P:\Amigos\Web Release 3 [Final]\AmigosAuction\AmigosAuction.Services\obj\Debug\AmigosAuction.Services.pdb

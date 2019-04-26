@@ -1,0 +1,59 @@
+﻿@model AmigosAuction.Web.ViewModels.AuctionsViewModel
+@{
+    ViewBag.Title = "SortedAuctions";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br/>
+<h2>@Model.Title</h2>
+<hr/>
+
+<div class="row">
+        @foreach (var auction in Model.AllAuctions)
+        {
+            <div class="col-lg-6 col-md-6 mb-2">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="@auction.AuctionPicture" alt=""></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="@Url.Action("Details", "Auctions", new { ID = auction.ID })">@auction.Title</a>
+                        </h4>
+                        <h5>
+                            $
+                            @{
+                                var a = auction.InitialPrice;
+                                var b = a + auction.Bids.Sum(x => x.BiddingRate);
+                            }
+                            @b
+                        </h5>
+                        <p class="card-text">
+                            @{
+                                string data = auction.Description;
+                                string shortData = data.Substring(0, 50);
+                            }
+                            @shortData ...
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">
+                            @{
+                                Random rnd = new Random();
+                                int rating = rnd.Next(1, 6);
+                                int total = 5;
+                                int left = total - rating;
+                            }
+                            @for (int i = 0; i < rating; i++)
+                            {
+                                <span>&#9733;</span>
+                            }
+                            @for (int i = 0; i < left; i++)
+                            {
+                                <span>&#9734;</span>
+                            }
+                        </small>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+<br/>

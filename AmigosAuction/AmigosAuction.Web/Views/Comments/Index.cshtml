@@ -1,0 +1,123 @@
+﻿@model IEnumerable<AmigosAuction.Entities.Comment>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_EntityLayout.cshtml";
+}
+
+@for (int i = 0; i < 5; i++)
+{
+    <br />
+}
+<h2>All Comments</h2>
+
+
+<div class="card mb-3">
+    <div class="card-header">
+        <i class="fas fa-table"></i>
+        All Auctions Table
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>
+                            Comment
+                        </th>
+                        <th>
+                            User
+                        </th>
+                        <th>
+                            Posted at
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Rating)
+                        </th>
+                        <th>
+                            Auction
+                        </th>
+                        <th>
+                            Action
+                        </th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Text)
+                            </td>
+                            <td>
+                                @if (item.UserID != null)
+                                {
+                                    @Html.DisplayFor(modelItem => item.UserID)
+                                }
+                                else
+                                {
+                                    <span>Anonymous</span>
+                                }
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TimeStamp)
+                            </td>
+                            <td>
+                                @{
+                                    var left = 5 - item.Rating;
+                                    for (int i = 0; i < left; i++)
+                                    {
+                                        <i class="fas fa-star text-warning" style="font-size:small"></i>
+                                    }
+                                    for (int i = 0; i < item.Rating; i++)
+                                    {
+                                        <i class="far fa-star text-warning" style="font-size:small"></i>
+                                    }
+                                }
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.RecordID)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+
+                <tfoot>
+                    <tr>
+                        <th>
+                            Comment
+                        </th>
+                        <th>
+                            User
+                        </th>
+                        <th>
+                            Posted at
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Rating)
+                        </th>
+                        <th>
+                            Auction
+                        </th>
+                        <th>
+                            Action
+                        </th>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+    <div class="card-footer small text-muted">Lasted Updated by @User.Identity.Name on @DateTime.Now</div>
+</div>
+<br/>
+
+<script>
+    $(function () {
+        $('#activeComment').addClass('active');
+    });
+</script>

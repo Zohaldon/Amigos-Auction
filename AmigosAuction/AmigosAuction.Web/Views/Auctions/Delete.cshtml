@@ -1,0 +1,100 @@
+﻿@model AmigosAuction.Entities.Auction
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_EntityLayout.cshtml";
+}
+
+<br />
+<h2 align="center">Delete Auction</h2>
+
+<hr />
+
+<h3>Are you sure you want to delete @Model.Title Auction?</h3>
+<br />
+<div>
+    <h4>@Model.Title Auction</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InitialPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InitialPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AuctionStartTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AuctionStartTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AuctionEndTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AuctionEndTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AuctionPicture)
+        </dt>
+
+        <dd>
+            <img class="img-fluid img-thumbnail" height="100" width="100" id="auctionPic" src="@Model.AuctionPicture" />
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-outline-danger" />
+            <br />
+            <br />
+            @Html.ActionLink("Show All Auction", "Index")
+        </div>
+    }
+</div>
+<br />
+<script>
+    $('#auctionPic').click(function () {
+        window.open('@Model.AuctionPicture', '_blank');
+    });
+</script>
+
+<script>
+    $(function () {
+        $('#activeAuction').addClass('active');
+    });
+</script>
