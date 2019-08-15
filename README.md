@@ -12,4 +12,4 @@ Here are few features listed for Amigos Auction:
 ASP.net, Jquery, Javascript, Data-table, Node.js, Microsoft Owin Authentication is used for the purpose of this project.
 
 ## Home Page
-<img src="AmigosAuction/screenshot/1.PNG" /><br/>
+<img src="AmigosAuction/screenshot/1.png" /><br/>
