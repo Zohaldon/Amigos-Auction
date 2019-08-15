@@ -10,3 +10,6 @@ Here are few features listed for Amigos Auction:
 5. Search auction, Sort them and to find auction based upon their description
 
 ASP.net, Jquery, Javascript, Data-table, Node.js, Microsoft Owin Authentication is used for the purpose of this project.
+
+## Home Page
+<img src="screenshot/1.PNG" /><br/>
