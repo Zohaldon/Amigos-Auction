@@ -24,13 +24,13 @@ ASP.net, Jquery, Javascript, Data-table, Node.js, Microsoft Owin Authentication 
 <img src="AmigosAuction/screenshot/4.png" /><br/>
 
 ## Screen after login
-<img src="AmigosAuction/screenshot/5.png" /><br/>
+<img src="AmigosAuction/screenshot/5.PNG" /><br/>
 
 ## Admin Dashboard
-<img src="AmigosAuction/screenshot/6.png" /><br/>
+<img src="AmigosAuction/screenshot/6.PNG" /><br/>
 
 ## CRUD Auction Entity
-<img src="AmigosAuction/screenshot/7.png" /><br/>
+<img src="AmigosAuction/screenshot/7.PNG" /><br/>
 Note: You can CRUD Auction, Category, Users and comments.
 
 ## Category wise results
