@@ -1,4 +1,4 @@
-# Amigos Auciton Website
+# Amigos Auction Website
 
 Amigos Auction is an ASP.net MVC based auction website where you see various ongoing auction based upon different categories. This project was developed from scratch with proper documentation for project proposal, User roles, user Stories, Iteration Plan, Release Plan, Project Maintenance, SQL Query and much more. A registered user can bid on any available auction. The website is fully dynamic meaning once you have bid on any given website the price would automatically be updated and the highest user list would get rearranged.
 
