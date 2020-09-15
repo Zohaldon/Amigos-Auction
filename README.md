@@ -39,5 +39,5 @@ Note: You can CRUD Auction, Category, Users and comments.
 ## Auction details
 <img src="AmigosAuction/screenshot/9.PNG" /><br/>
 
-## Auction deatils continued
+## Auction details continued
 <img src="AmigosAuction/screenshot/10.PNG" /><br/>
